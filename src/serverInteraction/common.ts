@@ -1,4 +1,4 @@
-export const BASE_URL = "https://mcformationback.blackenergy.click/";
+export const BASE_URL = "http://localhost:8800/";
 
 export enum EntryPoint {
     ALL_FORMATION = '/formations',
